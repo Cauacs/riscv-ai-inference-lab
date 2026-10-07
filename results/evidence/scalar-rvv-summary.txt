@@ -1,0 +1,22 @@
+RVV static scan: /home/caua/playground/llama.cpp/build-scalar
+0 matching instruction lines | /home/caua/playground/llama.cpp/build-scalar/bin/libllama-perplexity-impl.so
+0 matching instruction lines | /home/caua/playground/llama.cpp/build-scalar/bin/libllama-fit-params-impl.so
+0 matching instruction lines | /home/caua/playground/llama.cpp/build-scalar/bin/libggml.so.0.25.3
+0 matching instruction lines | /home/caua/playground/llama.cpp/build-scalar/bin/libmtmd.so.0.5.0
+0 matching instruction lines | /home/caua/playground/llama.cpp/build-scalar/bin/libggml-base.so.0.25.3
+0 matching instruction lines | /home/caua/playground/llama.cpp/build-scalar/bin/libllama-quantize-impl.so
+0 matching instruction lines | /home/caua/playground/llama.cpp/build-scalar/bin/libllama-server-impl.so
+0 matching instruction lines | /home/caua/playground/llama.cpp/build-scalar/bin/libllama-cli-impl.so
+0 matching instruction lines | /home/caua/playground/llama.cpp/build-scalar/bin/libllama.so.0.5.0
+0 matching instruction lines | /home/caua/playground/llama.cpp/build-scalar/bin/libggml-cpu.so.0.25.3
+0 matching instruction lines | /home/caua/playground/llama.cpp/build-scalar/bin/llama-cli
+0 matching instruction lines | /home/caua/playground/llama.cpp/build-scalar/bin/llama-bench
+0 matching instruction lines | /home/caua/playground/llama.cpp/build-scalar/bin/libllama-common.so.0.5.0
+0 matching instruction lines | /home/caua/playground/llama.cpp/build-scalar/bin/libllama-completion-impl.so
+0 matching instruction lines | /home/caua/playground/llama.cpp/build-scalar/bin/libllama-bench-impl.so
+0 matching instruction lines | /home/caua/playground/llama.cpp/build-scalar/bin/libllama-batched-bench-impl.so
+Scanned=16 files; with matches=0; errors=0
+Presence proves compiled code, NOT execution or performance benefit.
+No match is inconclusive: filter/decoder/linked external libraries may miss code.
+Use ldd on trusted local executables to locate libraries outside this build.
+Report: /home/caua/riscv-ai-inference-lab/results/raw/20261007T181448Z-rvv.8h4YYG

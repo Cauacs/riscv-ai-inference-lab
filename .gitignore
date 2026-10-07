@@ -1,0 +1,16 @@
+/vendor/
+/build/
+/models/
+/results/raw/
+*.gguf
+*.safetensors
+*.bin
+*.o
+*.a
+*.so
+*.so.*
+__pycache__/
+.env
+.env.*
+.DS_Store
+*~

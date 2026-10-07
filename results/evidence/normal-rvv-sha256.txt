@@ -1,0 +1,16 @@
+4edd1110865a44505134d64dc8b091b77e302077b21cb4927f5956bd78ea9f51  /home/caua/playground/llama.cpp/build/bin/libllama-perplexity-impl.so
+49e431f1945b46055a9e58bdf4e4bbe9c376873fe672e73b23d518df51c95f37  /home/caua/playground/llama.cpp/build/bin/libllama-fit-params-impl.so
+3c2273da645c0674bd1e32eea675a04fa3b56af293e0ecdd73fb7c68ddff2b53  /home/caua/playground/llama.cpp/build/bin/libggml.so.0.25.3
+1e11be67ae9756ac2788cfacdcb674a368d18d63c3f7404f6165b8cc188fc429  /home/caua/playground/llama.cpp/build/bin/libmtmd.so.0.5.0
+11acaf96962ebad527c0414746b55f10544b2b8ab303a65b9c0a75c0918953e6  /home/caua/playground/llama.cpp/build/bin/libggml-base.so.0.25.3
+1fbe0b0c170f609db8f1fd9aa8d7995f0782d9a1dc38c57ccfe304cce349721b  /home/caua/playground/llama.cpp/build/bin/libllama-quantize-impl.so
+c5777b71b3f9357dd12d5e0215da07dd2c49bd1bd478a838c30d57819bd39263  /home/caua/playground/llama.cpp/build/bin/libllama-server-impl.so
+560ea83b082c6f889859cbd041cd15fdc2680f7585ee06757e5ce08187c658b0  /home/caua/playground/llama.cpp/build/bin/libllama-cli-impl.so
+cd5ed484f9a4012af4f44f288c435efea6dbd79ad62fa12e8aa5da3b593d91ed  /home/caua/playground/llama.cpp/build/bin/libllama.so.0.5.0
+9f046863ecdbd72c531421c311ab2c1ef582df908eb6adcabac92172e7a277d6  /home/caua/playground/llama.cpp/build/bin/libggml-cpu.so.0.25.3
+f88e8eaa323b40aefcd51eae2012e58635bbc38b9f6a1970e63a31a59b1b5ee2  /home/caua/playground/llama.cpp/build/bin/llama-cli
+e7dce723f0ad209d2d0a96e2649dcefc621eedbfc231a21cae7815f09d95bb49  /home/caua/playground/llama.cpp/build/bin/llama-bench
+f18574dd0f6c22ba0b1973b0e48a53101f4c0037fbbf1d2e9d6599dce7e9b987  /home/caua/playground/llama.cpp/build/bin/libllama-common.so.0.5.0
+fd9cd7f4f619a63e9a7462ab223648d1485e8be6e9a96e2115f8d59571877e52  /home/caua/playground/llama.cpp/build/bin/libllama-completion-impl.so
+3d36e7d617a549ce037a475cebc380a11a750d20e18d0b92fdd78ee3f6c9cc49  /home/caua/playground/llama.cpp/build/bin/libllama-bench-impl.so
+95acdd882c5a7b92ad3b80a8a394e06071da14c3ebc0cba5e757ab3f6f236508  /home/caua/playground/llama.cpp/build/bin/libllama-batched-bench-impl.so

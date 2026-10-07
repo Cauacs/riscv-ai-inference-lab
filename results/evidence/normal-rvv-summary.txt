@@ -1,0 +1,22 @@
+RVV static scan: /home/caua/playground/llama.cpp/build
+0 matching instruction lines | /home/caua/playground/llama.cpp/build/bin/libllama-perplexity-impl.so
+0 matching instruction lines | /home/caua/playground/llama.cpp/build/bin/libllama-fit-params-impl.so
+0 matching instruction lines | /home/caua/playground/llama.cpp/build/bin/libggml.so.0.25.3
+0 matching instruction lines | /home/caua/playground/llama.cpp/build/bin/libmtmd.so.0.5.0
+0 matching instruction lines | /home/caua/playground/llama.cpp/build/bin/libggml-base.so.0.25.3
+0 matching instruction lines | /home/caua/playground/llama.cpp/build/bin/libllama-quantize-impl.so
+0 matching instruction lines | /home/caua/playground/llama.cpp/build/bin/libllama-server-impl.so
+0 matching instruction lines | /home/caua/playground/llama.cpp/build/bin/libllama-cli-impl.so
+0 matching instruction lines | /home/caua/playground/llama.cpp/build/bin/libllama.so.0.5.0
+34244 matching instruction lines | /home/caua/playground/llama.cpp/build/bin/libggml-cpu.so.0.25.3
+0 matching instruction lines | /home/caua/playground/llama.cpp/build/bin/llama-cli
+0 matching instruction lines | /home/caua/playground/llama.cpp/build/bin/llama-bench
+0 matching instruction lines | /home/caua/playground/llama.cpp/build/bin/libllama-common.so.0.5.0
+0 matching instruction lines | /home/caua/playground/llama.cpp/build/bin/libllama-completion-impl.so
+0 matching instruction lines | /home/caua/playground/llama.cpp/build/bin/libllama-bench-impl.so
+0 matching instruction lines | /home/caua/playground/llama.cpp/build/bin/libllama-batched-bench-impl.so
+Scanned=16 files; with matches=1; errors=0
+Presence proves compiled code, NOT execution or performance benefit.
+No match is inconclusive: filter/decoder/linked external libraries may miss code.
+Use ldd on trusted local executables to locate libraries outside this build.
+Report: /home/caua/riscv-ai-inference-lab/results/raw/20261007T181405Z-rvv.Iz4oE2

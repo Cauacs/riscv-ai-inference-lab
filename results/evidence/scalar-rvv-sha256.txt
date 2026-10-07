@@ -1,0 +1,16 @@
+cc4c34a5e154ef9b6e216ec20af2528c07a01d090c74c9067efaf7c4b8bb080d  /home/caua/playground/llama.cpp/build-scalar/bin/libllama-perplexity-impl.so
+cb4c1c8bbc55fa6c068c09fe9ee83d530a862a55a11471fcd75bd04e1ab79de5  /home/caua/playground/llama.cpp/build-scalar/bin/libllama-fit-params-impl.so
+f5795da30f3e7b2ab4dd785bd849c3540450c31317ad3fdbd65c662f90543ad9  /home/caua/playground/llama.cpp/build-scalar/bin/libggml.so.0.25.3
+75c8e5968e15ed0cee9c19a88105e014e23c041e2ce8a2eb3c6bb6bd01d2ff09  /home/caua/playground/llama.cpp/build-scalar/bin/libmtmd.so.0.5.0
+11acaf96962ebad527c0414746b55f10544b2b8ab303a65b9c0a75c0918953e6  /home/caua/playground/llama.cpp/build-scalar/bin/libggml-base.so.0.25.3
+2311db91c36ce0cc39e98154fd0ca5f39ac381f93a5822b9b7d64b427ae7a32c  /home/caua/playground/llama.cpp/build-scalar/bin/libllama-quantize-impl.so
+e24ab9828c3fb40e76a338600efb88a230e75ff824f863e48c1224543b80ce93  /home/caua/playground/llama.cpp/build-scalar/bin/libllama-server-impl.so
+9e37172fd6822aecfd9ef3c2d4c839f4fcefa460d061f848bd21a8b41a3c6af8  /home/caua/playground/llama.cpp/build-scalar/bin/libllama-cli-impl.so
+2f161810704924c890f3ee7fe17dbc3555ca5be9ed7d0921cf9eedebb8d13890  /home/caua/playground/llama.cpp/build-scalar/bin/libllama.so.0.5.0
+9920a3ed3c216c1567ce949efe20ed25e8684335c34c7d70ead0dcf138d8aa6b  /home/caua/playground/llama.cpp/build-scalar/bin/libggml-cpu.so.0.25.3
+d7d2e8808fb8346b9d937ebc7b1d96342a4427ba6f346e6624c46c8eed974b9a  /home/caua/playground/llama.cpp/build-scalar/bin/llama-cli
+df14339e60510159ccf7842c11e6f8af4e28bc98125695a49b461a7fad2d06a0  /home/caua/playground/llama.cpp/build-scalar/bin/llama-bench
+5bf078cf5f7141ca106f24a94462df7894c27970d6e2ed907c937b2c7dfc4576  /home/caua/playground/llama.cpp/build-scalar/bin/libllama-common.so.0.5.0
+b48e5e0551dc84a97d13e46aac225ac33ae3af91efe58a7fcd3321802e12f6a7  /home/caua/playground/llama.cpp/build-scalar/bin/libllama-completion-impl.so
+4341456bb827affe6546d5f713af5d9c3c0db08656f982c71845dd9fbe270098  /home/caua/playground/llama.cpp/build-scalar/bin/libllama-bench-impl.so
+eb477fff2c996269547cca4ab7693cd2d16e64afabe97128c21e1fc3f103edd4  /home/caua/playground/llama.cpp/build-scalar/bin/libllama-batched-bench-impl.so
